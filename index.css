@@ -83,6 +83,12 @@ h1 {
   text-transform: ;
 }
 
+h2 {
+  font-size: 28px;
+  font-weight: 400;
+  text-transform: ;
+}
+
 p {
   font-size: 20px;
   line-height: 40px;
@@ -91,4 +97,13 @@ p {
 
 html {
   scroll-behavior: smooth;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
 }
