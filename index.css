@@ -84,15 +84,15 @@ a:hover {
 }
 
 h1 {
-  font-size: 38px;
+  font-size: 36px;
   font-weight: 600;
-  text-transform: ;
+  color: teal;
+  text-decoration: underline;
 }
 
 h2 {
   font-size: 30px;
   font-weight: 600;
-  text-transform: ;
   text-align: left;
   padding-bottom: 0px;
   padding-top: 20px;
