@@ -87,7 +87,7 @@ h1 {
   font-size: 36px;
   font-weight: 600;
   color: teal;
-  text-decoration: underline;
+  text-transform: uppercase;
 }
 
 h2 {
